@@ -1,0 +1,17 @@
+com\mycompany\mavenproject1\ReporteFactory.class
+com\mycompany\mavenproject1\EXCELReporte.class
+com\mycompany\mavenproject1\ThirdPartyTelegram.class
+com\mycompany\mavenproject1\WhatsAppAdapter.class
+com\mycompany\mavenproject1\EmailNotificador.class
+com\mycompany\mavenproject1\EstiloDecorator.class
+com\mycompany\mavenproject1\ThirdPartyWhatsApp.class
+com\mycompany\mavenproject1\ColorDecorator.class
+com\mycompany\mavenproject1\Reporte.class
+com\mycompany\mavenproject1\Notificador.class
+com\mycompany\mavenproject1\NotificadorFactory.class
+com\mycompany\mavenproject1\WORDReporte.class
+com\mycompany\mavenproject1\SistemaReporte.class
+com\mycompany\mavenproject1\Mavenproject1.class
+com\mycompany\mavenproject1\PDFReporte.class
+com\mycompany\mavenproject1\TelegramAdapter.class
+com\mycompany\mavenproject1\DecoratorReporte.class
